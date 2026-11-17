@@ -108,3 +108,20 @@ je vais mettre cette ligne de côté
 
 
 ---
+#17/11
+
+## Ce que j'ai fait
++ J'ai réalisé le miniprojet à partir du code bash donné dans la séance sur le shell unix.
+	+ A partir de celui-ci, j'ai effectué les modifications nécéssaires pour que ça réponde à nos attentes.
+	+ Même avec le cours, j'ai trouvé ça plutôt compliqué. En effet, même si on a fait des exercices sur le shell, on n'est pas autant habitué qu'avec Python par exemple.
+	+ Je me suis beaucoup servi d'internet pour la réalisation de ce travail.
+
+## Solutions que je veux faire partager
++ N/A
+
+## Questions à discuter
++ N/A
+
+
+
+---
